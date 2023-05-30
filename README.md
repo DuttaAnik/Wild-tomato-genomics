@@ -4,7 +4,7 @@ In this project, we aimed to identify genes that are involved in wild plant adap
 
 ## What is in the two folders?
 
-The first folder ´Accompanying_text_files´ contains all the text files used in different analyses and make figures. The other two folders contain all the bash and R scripts used for analysing and visualizing Illumina Whole genome sequence data from 99 wild tomato plants.
+The first folder **Accompanying_text_files** contains all the text files used in different analyses and make figures. The other two folders contain all the bash and R scripts used for analysing and visualizing Illumina Whole genome sequence data from 99 wild tomato plants.
 
 ### Analyses 
 
